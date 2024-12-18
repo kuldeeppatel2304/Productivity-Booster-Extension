@@ -24,7 +24,7 @@ A sleek and efficient Chrome extension designed to boost your productivity by he
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Productivity-Booster-Extension.git
+   git clone https://github.com/kuldeeppatel2304/Productivity-Booster-Extension.git
    ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer Mode**.
