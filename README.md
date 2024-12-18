@@ -44,9 +44,6 @@ A sleek and efficient Chrome extension designed to boost your productivity by he
 ## Contributing
 Feel free to fork this repository and submit pull requests. Contributions, suggestions, and bug reports are always welcome!
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Inspired by the need for better task management tools directly within the browser.
 - Thanks to the open-source community for their invaluable resources and support.
