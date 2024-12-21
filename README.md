@@ -45,7 +45,7 @@ A sleek and efficient Chrome extension designed to boost your productivity by he
 Feel free to fork this repository and submit pull requests. Contributions, suggestions, and bug reports are always welcome!
 
 ## Acknowledgments
-- Inspired by the need for better task management tools directly within the browser.
+- Inspired by the need for better task management tools directly within the browser extension.
 - Thanks to the open-source community for their invaluable resources and support.
 
 ## Author
