@@ -61,4 +61,5 @@ addTaskButton.addEventListener("click", () => {
 });
 
 // Initial load
+
 loadTasks();
